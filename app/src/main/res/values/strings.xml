@@ -103,4 +103,6 @@
     <string name="empty_forecast_list_server_down">No weather Information available.Server not returning data</string>
 
     <string name="empty_forecase_list_server_error">No weather Information available.The server is not returning valid data.Please check for an updated version of sunshine</string>
+
+    <string name="empty_forecast_list_invalid_location">No weather Information available.The location was invalid.</string>
 </resources>
