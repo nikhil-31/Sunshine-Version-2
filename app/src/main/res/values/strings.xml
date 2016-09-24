@@ -96,4 +96,6 @@
 
     <string name="empty">No Weather Information Available</string>
 
+    <string name="empty_no_network">No Weather Information Available. The network is not available to fetch weather data at this time.</string>
+
 </resources>
