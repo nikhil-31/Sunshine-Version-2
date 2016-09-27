@@ -105,4 +105,7 @@
     <string name="empty_forecase_list_server_error">No weather Information available.The server is not returning valid data.Please check for an updated version of sunshine</string>
 
     <string name="empty_forecast_list_invalid_location">No weather Information available.The location was invalid.</string>
+
+    <string name="pref_location_error_description">Invalid Location (<xliff:g id="location_setting">%1$s</xliff:g>)"</string>
+    <string name="pref_location_unknown_description">Validating Location... (<xliff:g id="location_setting">%1$s</xliff:g>)"</string>
 </resources>
